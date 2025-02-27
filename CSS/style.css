@@ -1,8 +1,17 @@
-    body {
-      font-size: 20px;
-      font-family: "Trebuchet MS", Veranda, sans-serif;
-      display: inline-block;
-      margin: 15px;
-      overflow-wrap: break-word;
-      background-color: #2b2b2b;
-    }
+* {
+  box-sizing: border-box;
+}
+
+a:link, a:visited {
+  color: #fdfcfc;
+}
+
+html, body {
+  font-size: 20px;
+  font-family: "Trebuchet MS", Veranda, sans-serif;
+  display: inline-block;
+  margin: 15px;
+  overflow-wrap: break-word;
+  color: #fcfcfc;
+  background-color: #2b2b2b;
+}
