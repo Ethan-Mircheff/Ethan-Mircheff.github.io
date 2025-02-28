@@ -12,6 +12,6 @@ html, body {
   display: inline-block;
   margin: 15px;
   overflow-wrap: break-word;
-  text-color: #fcfcfc;
+  color: #fcfcfc;
   background-color: #2b2b2b;
 }
