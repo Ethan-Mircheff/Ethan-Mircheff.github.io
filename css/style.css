@@ -14,4 +14,11 @@ html, body {
   overflow-wrap: break-word;
   color: #fcfcfc;
   background-color: #2b2b2b;
+  margin: 25px;
+}
+
+img {
+  max-width: 620px;
+  width: 100%;
+  height: auto;
 }
